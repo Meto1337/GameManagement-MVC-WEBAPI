@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\bin\Debug\Data.dll.config
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\bin\Debug\Data.dll
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\bin\Debug\Data.pdb
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\obj\Debug\Data.dll
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\obj\Debug\Data.pdb
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\obj\Debug\Data.Migrations.Initial.resources
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\obj\Debug\Data.Migrations.Second.resources
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\obj\Debug\Data.Migrations.Tgird.resources
+C:\Users\HP\source\repos\GameManagemetProjectDA\Data\obj\Debug\Data.Migrations.Fourth.resources

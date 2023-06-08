@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\bin\Debug\Repository.dll.config
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\bin\Debug\Repository.dll
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\bin\Debug\Repository.pdb
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\bin\Debug\Data.dll
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\bin\Debug\Data.pdb
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\bin\Debug\Data.dll.config
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\obj\Debug\Repository.dll
+C:\Users\HP\source\repos\GameManagemetProjectDA\Repository\obj\Debug\Repository.pdb

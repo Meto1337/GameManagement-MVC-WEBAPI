@@ -1,0 +1,122 @@
+﻿@model MVC.ViewModels.CorporationVM
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+
+
+<div>
+    <h4>CorporationVM</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CorporationName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CorporationName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CorporationOwnerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CorporationOwnerName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AddressNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AddressNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.City)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.City)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContactNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContactNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EstablishedYear)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EstablishedYear)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Developers)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Developers)
+
+            @foreach (var item in Model.Developers)
+            {
+                <h5>@item.FirstName @item.LastName</h5>
+                <hr />
+
+            }
+
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Games)
+        </dt>
+        <dd>
+
+            @foreach (var item in Model.Games)
+            {
+                <h5>@item.Title </h5>
+                <hr />
+
+            }
+            <br />
+        </dd>
+    </dl>
+</div>
+<br />
+<br />
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+</body>
+</html>
